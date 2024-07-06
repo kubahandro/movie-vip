@@ -100,10 +100,10 @@ header h1 {
 
 .movie:hover .overview {
     transform: translateY(0);
-}
+};
 
 #main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-}
+};
